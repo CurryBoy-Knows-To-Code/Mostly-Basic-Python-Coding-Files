@@ -1,0 +1,20 @@
+Fighter/ Warrior/ Soldier: 
+
+The most physically strong of all the class groups. This class usually specializes in melee attacks, whether with weapons or just plain old fists.  This class generally has the best armor, and is the most skilled with the largest weapons. High HP, attack, and defense scores are a usually characteristic of the Fighter class. This class is usually utilized by players who favor a hack and slash style gameplay.
+
+Assassin/ Ninja:
+
+The Assassin class forgoes raw strength in favor of a more subtle approach. Assassins generally have higher skill sets in the areas of stealth, sneaking, and smaller, quicker weapons. Assassins are also usually the best thieves of any class, and have no trouble finding places to hide. The Ninja class also usually begins with lower defensive stats than other classes, but offset that by being higher rated in lock picking, sneak attacks, and speed. The Assassin class is best utilized by players who prefer a more cautious, yet chaotic, style of gameplay. Or just someone who doesn’t like being seen while committing the wide array of felonies that video games can offer.
+
+Mage/ Wizard:
+
+This class is the magical member of the group. The most skilled in the arcane arts, Mages are generally typified by their lack of traditional weaponry, foregoing steel in favor of fire, ice, and other spell use. Mages usually wear the weakest of armor, many times clad in nothing but robes, but can also cast shield, healing, and regeneration spells. Mages also usually do their damage from long range, as opposed to close quarters, where they’re usually susceptible to damage.
+
+Archer/ Hunter/ Ranger:
+
+It’s not tough to imagine what the Archer is good at. The Archer class is typically a woodsman style character, skilled with a bow and arrow. This character set is also typically the most likely of the character classes to have a companion, such as a dog or other beast. While Archers are most reliant on their incredible long-range skill to inflict damage, they can also be useful at close range, as most have some skill with short-range weapons.
+
+Berserker:
+
+The Berserker is designed to get up close, quickly, and deal as much insane burst damage as possible with moderate sustained damage in between. They’re often seen on the front lines with their fighter cousins. Unfortunately for the Berserker, they are often clad in leather/mail armor suiting a squishier class type. Their HP growth stats are often much higher to compensate for the necessity of close range, but weakness of armor class. Always near the top of the damage charts for melee classes, the Berserker excels in supporting a main tank in burning a single target. Some iterations of the Berserker have tremendous wave/add clear or specialize in striking an entire row of enemies. 
+
